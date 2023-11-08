@@ -13,6 +13,6 @@ _The primary aim of this project is to create and customize leaderboards, integr
 This leaderboard is connected to a player's unique identifier in **LootLocker**, which can be either a First Party ID or a Public UID._
 
 ### What is LootLocker?
-**_LootLocker_ ** is a plug-and-play, cross-platform backend solution that empowers developers to build, launch, and operate their games effectively. It provides a wide range of tools to enhance our games and deliver the best possible experience to players.
+**_LootLocker_** is a plug-and-play, cross-platform backend solution that empowers developers to build, launch, and operate their games effectively. It provides a wide range of tools to enhance our games and deliver the best possible experience to players.
 
 
