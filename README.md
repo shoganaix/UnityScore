@@ -1,7 +1,7 @@
 # UnityScore
-Note
+
 <p>
-<sub>These scripts have been developed using LootLocker's tools.</sub>
+<sub>Additional Note: These scripts have been developed using LootLocker's tools.</sub>
 </p>
 
 ## Repository Description:
