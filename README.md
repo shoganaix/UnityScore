@@ -15,4 +15,5 @@ This leaderboard is connected to a player's unique identifier in **LootLocker**,
 ### What is LootLocker?
 **_LootLocker_** is a plug-and-play, cross-platform backend solution that empowers developers to build, launch, and operate their games effectively. It provides a wide range of tools to enhance our games and deliver the best possible experience to players.
 
-
+<img width="125" alt="leaderbard" src="https://github.com/shoganaix/UnityScore/assets/123943292/7feef02f-994b-4e86-b26c-9120a48182cd">
+<img width="1202" alt="leaderbardloot" src="https://github.com/shoganaix/UnityScore/assets/123943292/79cb0378-ce19-4934-b277-3c5054762508">
