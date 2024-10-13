@@ -1,18 +1,21 @@
 # UnityScore
-> <p> Additional Note: This game has been developed for a game jam </p>
+> <p><sub>Additional Note: This game has been developed using LootLocker's tools.</sub></p>
 
 # Index
+* [Repository Description](#repository-description)
 * [Project Objective](#project-objective)
-* [Game Overview](#game-overview)
-* [Key Features:](#key-features)
+* [What is LootLocker?](#what-is-lootlocker)
+
+## Repository Description
+This repository contains a collection of scripts designed to record the player's name and score on a leaderboard **without** requiring email input. 
+It also displays the top 10 players of the game in real-time.
 
 ## Project Objective
-The primary aim of this project is to create an engaging and fun local multiplayer experience, featuring dynamic gameplay that allows players to interact and compete in a playful office environment.
+_The primary aim of this project is to create and customize leaderboards, integrate them with leveling systems, achievements, triggers, and more. 
+This leaderboard is connected to a player's unique identifier in **LootLocker**, which can be either a First Party ID or a Public UID._
 
-## Game Overview
-One player will take on the role of a a mischievous squirrel bent on destroying an office scene, knocking over supplies and more. The other player, will play as a human attempting to restore order.
+### What is LootLocker
 
-### Key Features
-- Local Multiplayer Fun: Enjoy a competitive experience with a friend in the same room and PC!
-- Dynamic Gameplay: Switch between chaos and control as you strategize to outsmart each other.
-- Interactive Environment: Utilize various office items to either create havoc or clean up the mess.
+**_LootLocker_** is a plug-and-play, cross-platform backend solution that empowers developers to build, launch, and operate their games effectively. It provides a wide range of tools to enhance our games and deliver the best possible experience to players.
+
+<img width="1202" alt="leaderbardloot" src="https://github.com/shoganaix/UnityScore/assets/123943292/79cb0378-ce19-4934-b277-3c5054762508">
